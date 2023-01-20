@@ -38,13 +38,10 @@ int main(int argc, char const *argv[])
         }
 
         cout << n << " element ciagu rowny jest: " << wynik << endl;
-
     }
 
     cout << "Kalkulator ciagu Fibonacciego\n";
     cout << "Kamil Abramowicz\n";
     cout << "I2S 2.1/1\n";
-
-
     return 0;
 }
